@@ -26,6 +26,9 @@
 ![Screenshot (61)](https://user-images.githubusercontent.com/94009296/199117245-46fcf91c-9e32-47d3-a467-ee63e5b76fee.png)
 
 ## Penggunaan operator switch untuk seleksi kondisi ##
+![Screenshot (62)](https://user-images.githubusercontent.com/94009296/199117563-31a32052-391b-4fd5-ba28-e96f184abb4f.png)
+![Screenshot (63)](https://user-images.githubusercontent.com/94009296/199117688-cc355a16-e001-4923-8c48-23cf584a0632.png)
+
 
 ## Pembuatan Form ##
 
