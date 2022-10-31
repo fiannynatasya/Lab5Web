@@ -2,12 +2,15 @@
 ## 312110198 ##
 ## TI.21.B.1 ##
 
-## 1.HTML DAN JAVA SCRIPT DASAR ##
+## 1.HTML ##
 ![Screenshot (50)](https://user-images.githubusercontent.com/94009296/199101643-fb37075d-e72d-49fc-ab78-445fb6056a10.png)
 
-## 2. PEMAKAIAN METHOD DALAM OBJEK ##
+## 2. JAVA SCRIPT DASAR ##
+![Screenshot (51)](https://user-images.githubusercontent.com/94009296/199103153-bf89af7e-0931-4011-af5d-c6924933b994.png)
 
-## 3. PEMAKAIAN PROMPT ##
+## 3. PEMAKAIAN METHOD DALAM OBJEK ##
+
+## 4. PEMAKAIAN PROMPT ##
 
 ## DASAR PEMOGRAMAN DI JAVASCRIPT ##
 
