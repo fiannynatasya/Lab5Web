@@ -31,7 +31,9 @@
 
 
 ## Pembuatan Form ##
-![Screenshot (64)](https://user-images.githubusercontent.com/94009296/199120143-fbda578c-3535-4e39-a022-a82d08e373db.png)
+![Screenshot (65)](https://user-images.githubusercontent.com/94009296/199123958-2f14b8ec-7c4d-459e-82a2-0074f86b7f6d.png)
+![Screenshot (66)](https://user-images.githubusercontent.com/94009296/199123994-2cc96617-9c1e-4f8d-a6ce-d5e36637fcb8.png)
+
 
 ## HTML DOM ##
 
