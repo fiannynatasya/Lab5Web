@@ -36,4 +36,4 @@
 
 
 ## HTML DOM ##
-
+![Screenshot (67)](https://user-images.githubusercontent.com/94009296/199126779-b8d8796c-c875-4bb2-92dc-cac4bd261feb.png)
