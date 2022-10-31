@@ -17,6 +17,7 @@
 ![Screenshot (55)](https://user-images.githubusercontent.com/94009296/199108122-37b9dbf2-2dae-45f5-a71e-87f5656aa36e.png)
 
 ## DASAR PEMOGRAMAN DI JAVASCRIPT ##
+![Screenshot (56)](https://user-images.githubusercontent.com/94009296/199116153-0034a4f6-17f7-4632-9a31-7440335d33d2.png)
 
 ## Seleksi kondisi (if..else) ##
 
