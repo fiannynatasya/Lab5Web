@@ -12,6 +12,8 @@
 ![Screenshot (52)](https://user-images.githubusercontent.com/94009296/199103917-57df354c-f5b5-4227-a215-a3efd3006d81.png)
 
 ## 4. PEMAKAIAN PROMPT ##
+![Screenshot (54)](https://user-images.githubusercontent.com/94009296/199105837-5bb528e3-b64e-4c83-87ee-a8ff04f4f86a.png)
+![Screenshot (53)](https://user-images.githubusercontent.com/94009296/199105381-f1020afb-7e45-4f5b-89ad-3d176059ee35.png)
 
 ## DASAR PEMOGRAMAN DI JAVASCRIPT ##
 
