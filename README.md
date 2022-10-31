@@ -9,6 +9,7 @@
 ![Screenshot (51)](https://user-images.githubusercontent.com/94009296/199103153-bf89af7e-0931-4011-af5d-c6924933b994.png)
 
 ## 3. PEMAKAIAN METHOD DALAM OBJEK ##
+![Screenshot (52)](https://user-images.githubusercontent.com/94009296/199103917-57df354c-f5b5-4227-a215-a3efd3006d81.png)
 
 ## 4. PEMAKAIAN PROMPT ##
 
