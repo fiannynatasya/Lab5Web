@@ -20,6 +20,10 @@
 ![Screenshot (56)](https://user-images.githubusercontent.com/94009296/199116153-0034a4f6-17f7-4632-9a31-7440335d33d2.png)
 
 ## Seleksi kondisi (if..else) ##
+![Screenshot (58)](https://user-images.githubusercontent.com/94009296/199117076-cdb3d084-324a-4005-8b82-5727e0f2ce90.png)
+![Screenshot (59)](https://user-images.githubusercontent.com/94009296/199117148-d4cda9ba-8457-4f7b-bc1a-c005af595e53.png)
+![Screenshot (60)](https://user-images.githubusercontent.com/94009296/199117188-5090a196-e8a7-409b-933e-b80a7a2fc15b.png)
+![Screenshot (61)](https://user-images.githubusercontent.com/94009296/199117245-46fcf91c-9e32-47d3-a467-ee63e5b76fee.png)
 
 ## Penggunaan operator switch untuk seleksi kondisi ##
 
